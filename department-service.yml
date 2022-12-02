@@ -17,7 +17,7 @@ spring:
       ddl-auto: update
     database: postgresql
   boot:
-    message: This is great! with config server
+    message: This is great! with config server !!!
 
 eureka:
   instance:
