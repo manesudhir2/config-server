@@ -16,6 +16,8 @@ spring:
     hibernate:
       ddl-auto: update
     database: postgresql
+  boot:
+    message: This is great!
 
 eureka:
   instance:
