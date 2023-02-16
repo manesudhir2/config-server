@@ -14,7 +14,7 @@ spring:
     show-sql: true
     generate-ddl: true
     hibernate:
-      ddl-auto: update
+      ddl-auto: create
     database: postgresql
   boot:
     message: This is great! with config server !!
